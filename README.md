@@ -4,3 +4,9 @@
 - การใช้ Semantic HTML 
 - Form Validation 
 - ARIA Labels 
+## git command used in this lab 
+git push
+git add
+git commit
+git checkout
+git merge
